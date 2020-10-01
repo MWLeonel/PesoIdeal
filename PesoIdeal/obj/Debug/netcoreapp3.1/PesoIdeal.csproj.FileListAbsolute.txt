@@ -1,0 +1,13 @@
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\bin\Debug\netcoreapp3.1\PesoIdeal.exe
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\bin\Debug\netcoreapp3.1\PesoIdeal.deps.json
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\bin\Debug\netcoreapp3.1\PesoIdeal.runtimeconfig.json
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\bin\Debug\netcoreapp3.1\PesoIdeal.runtimeconfig.dev.json
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\bin\Debug\netcoreapp3.1\PesoIdeal.dll
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\bin\Debug\netcoreapp3.1\PesoIdeal.pdb
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\obj\Debug\netcoreapp3.1\PesoIdeal.csprojAssemblyReference.cache
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\obj\Debug\netcoreapp3.1\PesoIdeal.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\obj\Debug\netcoreapp3.1\PesoIdeal.AssemblyInfo.cs
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\obj\Debug\netcoreapp3.1\PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\obj\Debug\netcoreapp3.1\PesoIdeal.dll
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\obj\Debug\netcoreapp3.1\PesoIdeal.pdb
+C:\Users\Max\Desktop\PesoIdeal\PesoIdeal\obj\Debug\netcoreapp3.1\PesoIdeal.genruntimeconfig.cache
